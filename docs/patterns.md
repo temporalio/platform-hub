@@ -157,5 +157,5 @@ Standalone Activity is in pre-release and not recommended for production use. Se
 
 ## Additional resources
 
-* [Temporal Design Patterns](https://taonic.github.io/temporal-design-patterns/) — A curated catalog of design patterns by a Temporal Solution Architect, covering Entity Workflow, Updatable Timer, Signal with Start, Approval, and more.
+* [Temporal Design Patterns](https://temporal-sa.github.io/temporal-design-patterns/) — A curated catalog of design patterns by a Temporal Solution Architect, covering Entity Workflow, Updatable Timer, Signal with Start, Approval, and more.
 * [Temporal Code Exchange](https://temporal.io/code-exchange) — Example Temporal applications across languages and use cases.
